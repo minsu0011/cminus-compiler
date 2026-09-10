@@ -1,0 +1,17 @@
+﻿path,language,bytes
+analyze.c,c,8806
+analyze.h,h,648
+cgen.c,c,6759
+cgen.h,h,660
+code.c,c,2942
+code.h,h,2148
+globals.h,h,3304
+main.c,c,2450
+parse.c,c,4958
+parse.h,h,466
+scan.c,c,7088
+scan.h,h,637
+symtab.c,c,7595
+symtab.h,h,1211
+util.c,c,7406
+util.h,h,1050
