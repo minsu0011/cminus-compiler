@@ -28,3 +28,5 @@ make
 현재 실행 경로는 parsing과 semantic analysis까지입니다. `NO_CODE=TRUE`로 기계어 생성은 실행하지 않습니다.
 
 [구현 노트](docs/implementation.md) · [원저자 표기](ATTRIBUTION.md)
+
+[전체 문서 안내](docs/README.md)
